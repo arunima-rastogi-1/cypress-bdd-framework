@@ -1,5 +1,5 @@
 # cypress-bdd-framework
-Running cypress with a bdd framework (in javascript)
+Running cypress with a bdd framework 
  
  
  
